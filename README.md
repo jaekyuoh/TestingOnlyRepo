@@ -1,3 +1,3 @@
 # TestingOnlyRepo
 
-This is a git repository for integrating github with slack.
+This is a git repository for integrating github with slack!
